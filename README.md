@@ -17,3 +17,6 @@ Datos: Cookies dataset con 16 columnas:
 
 Variable target : 'quality'
 
+Hypothesis:
+- Las galletas con más contenido de azúcar y/o más calorías tendran un valor de quality mayor
+- A mayor temperatura de horneado, mayor crunch_factor
