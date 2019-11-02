@@ -17,6 +17,14 @@ Datos: Cookies dataset con 16 columnas:
 
 Variable target : 'quality'
 
-Hypothesis:
-- Las galletas con más contenido de azúcar y/o más calorías tendran un valor de quality mayor
-- A mayor temperatura de horneado, mayor crunch_factor
+----------------------------------
+
+Workflow:
+
+1-Data Cleaning
+2-EDA
+3-Feature Selection
+4-Binning target variable
+5-Models
+	5A-RandomForestClassifier
+	5B-SVM
